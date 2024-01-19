@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/search?sca_esv=599887976&rlz=1C1CHBD_enIN1069IN1070&sxsrf=ACQVn09AD4ozSVeHyA2XCRx5RIO_usDEYw:1705695050601&q=web+developer+banner&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjU-decoeqDAxXuxjgGHZkLCkYQ0pQJegQIDRAB&biw=1536&bih=730&dpr=1.25#imgrc=zRxWf4dLfIZhrM))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Neha Sharma</h1>
 <h3 align="center">From server secrets to user-friendly clicks – I'm the coder who does it all!</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehasharma101&label=Profile%20views&color=0e75b6&style=flat" alt="nehasharma101" /> </p>
 
